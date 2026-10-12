@@ -1,0 +1,4 @@
+Blizzard UI-DialogBox-Border texture
+https://github.com/Gethe/wow-ui-textures/blob/live/DialogFrame/UI-DialogBox-Border.PNG
+SHA256 d8500f9a50b78e73223ffa445eb6908e180b0b641d7ae0dd4f826db25c9df3af
+Sampled and tinted in bronze.cs. Original textures, atlas geometry, masks and runtime layout remain unchanged.

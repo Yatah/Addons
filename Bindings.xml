@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="WC3CONSOLE_OPTIONS" header="WC3CONSOLE">
+		WC3Console_ToggleOptions()
+	</Binding>
+</Bindings>

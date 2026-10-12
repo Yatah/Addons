@@ -1,0 +1,46 @@
+## Interface: 11701, 16001
+## Title: WC3 Console
+## Notes: A Dota 2 like HUD built from Blizzard's retail HUD pieces, an info bar and an auction house economy. /wc3c
+## Version: 1.1.0
+## Author: Fiur (Warcraft III art port), WC3 Console
+## IconTexture: Interface\AddOns\WC3Console\art\other\cogwheel
+## DefaultState: enabled
+## SavedVariables: WC3ConsoleDB
+## SavedVariablesPerCharacter: WC3ConsoleCharDB
+
+Core.lua
+MobaGeom.lua
+TargetLayout.lua
+Layout.lua
+Units.lua
+Blizzard.lua
+Modules\ActionBars.lua
+Modules\Minimap.lua
+Modules\Player.lua
+Modules\Target.lua
+Modules\Pet.lua
+Modules\Bags.lua
+Modules\Chat.lua
+Modules\Misc.lua
+Modules\InfoBar.lua
+Modules\HUDIndicators.lua
+Modules\Economy\Data.lua
+Modules\Economy\Scan.lua
+Modules\Economy\Ledger.lua
+Modules\Economy\Disenchant.lua
+Modules\Economy\Analysis.lua
+Modules\Economy\Synergy.lua
+Modules\Economy\DEWorkflow.lua
+Modules\Economy\Fortune.lua
+Modules\Economy\Opportunities.lua
+Modules\Economy\Widgets.lua
+Modules\Economy\Views.lua
+Modules\Economy\Theme.lua
+Modules\Economy\Book.lua
+Modules\Economy\LedgerOverview.lua
+Modules\Economy\LedgerGold.lua
+Modules\Economy\LedgerBusiness.lua
+Modules\Economy\LedgerMarket.lua
+Modules\Economy\Window.lua
+Options.lua
+

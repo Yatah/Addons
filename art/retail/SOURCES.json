@@ -1,0 +1,29 @@
+[
+  {
+    "file": "Spellbook-Page-1.tga",
+    "source": "https://github.com/Gethe/wow-ui-textures/blob/live/SPELLBOOK/Spellbook-Page-1.PNG",
+    "size": [
+      512,
+      512
+    ],
+    "sha256": "2d4962a930e7955879fa109dc353cc4a87d148de031894646232f38caee77731"
+  },
+  {
+    "file": "Spellbook-Page-2.tga",
+    "source": "https://github.com/Gethe/wow-ui-textures/blob/live/SPELLBOOK/Spellbook-Page-2.PNG",
+    "size": [
+      32,
+      512
+    ],
+    "sha256": "72fdd37277671a30fe4fdcfdf3c37b318aa8c504ec543200b2c94fb7a4a6cb9d"
+  },
+  {
+    "file": "AuctionHouseBackgrounds.tga",
+    "source": "https://github.com/Gethe/wow-ui-textures/blob/live/AUCTIONFRAME/AuctionHouseBackgrounds.PNG",
+    "size": [
+      2048,
+      1024
+    ],
+    "sha256": "b252934165d477c0670b5944673f616a0daec3f351677b2704c3eae9b95bb8e0"
+  }
+]
